@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "a webpack library example",
 	"main": "dist/webpack-numbers.js",
-	"author": "lxw",
+	"author": "lxw666 <git@github.com:lxw666/webpackLibrary.git>",
 	"license": "MIT",
 	"private": null,
 	"scripts": {
