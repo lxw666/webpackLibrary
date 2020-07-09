@@ -1,0 +1,20 @@
+{
+	"name": "webpack-library",
+	"version": "1.0.0",
+	"description": "a webpack library example",
+	"main": "dist/webpack-numbers.js",
+	"author": "lxw",
+	"license": "MIT",
+	"private": null,
+	"scripts": {
+		"start": "webpack-dev-server",
+		"build": "webpack"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"clean-webpack-plugin": "^3.0.0",
+		"lodash": "^4.17.19",
+		"webpack": "^4.43.0",
+		"webpack-cli": "^3.3.12"
+	}
+}
